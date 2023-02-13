@@ -1,3 +1,7 @@
 Freddy Quintero Colorado
 19 años
 Aprender todo lo posible la programación orientada a objetos, y empezar a dominar los lenguejes clasicos de la programación.
+Ahora si podemos realizar el commit, ya que la carpeta "archivos" contiene un archivo .txt, y por ende Github no la considera vacia.
+
+Es importante tener cuidado a la hora de hacer modificiones en nuestro Github, ya que si nuestro repositorio local esta desactualizado,
+puede generar conflictos con los archivos (commits) creados desde el repositorio web. 
