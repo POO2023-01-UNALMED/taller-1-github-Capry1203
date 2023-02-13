@@ -1,0 +1,2 @@
+La opcion "commit" si esta habilitada, pero a la hora de oprimirla no sirve de nada y no ocurre ningún cambio significativo, 
+ya que, para Github una carpeta vacía no se considera un cambio.
